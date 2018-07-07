@@ -1,0 +1,7 @@
+Starting Point:Cottage Grove
+Destination: Minneapolis
+Miles Traveled: 25
+Cost of gas per gallon: $2.50
+Size of the gas tank in gallons: 40
+
+And the total cost was: $1.56

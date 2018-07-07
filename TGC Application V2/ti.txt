@@ -1,0 +1,7 @@
+Starting Point:la
+Destination: ti
+Miles Traveled: 100
+Cost of gas per gallon: $2.29
+Size of the gas tank in gallons: 50
+
+And the total cost was: $4.58
